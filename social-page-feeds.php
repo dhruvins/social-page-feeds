@@ -1,7 +1,7 @@
 <?php 
 /**
- * Plugin Name: Facebook Pages Plugin
- * Plugin URI: http://www.imaginate-solutions.com/
+ * Plugin Name: Social Page Feeds
+ * Plugin URI: https://www.imaginate-solutions.com/
  * Description: This plugin lets you data of multiple Facebook Pages together
  * Version: 1.0.0
  * Author: Dhruvin Shah
